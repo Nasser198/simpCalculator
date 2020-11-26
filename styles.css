@@ -59,3 +59,30 @@ input {
     cursor: none;
     box-shadow: none;
 }
+
+footer{
+    position: absolute;
+    text-align: center;
+    bottom: 0%;
+    height: 10%;
+    width: 100%;
+    background-color: #045960;
+}
+
+header{
+    position: absolute;
+    text-align: center;
+    top: 0%;
+    height: 10%;
+    width: 100%;
+    background-color: #045960;
+}
+h1{
+    position: relative;
+    top: 27%;
+}
+p{
+    position: relative;
+    top: 40%;
+
+}
