@@ -59,7 +59,7 @@ const operators = document.querySelectorAll('.operators');
 const equal = document.querySelector(`input[value = "="]`);
 const clear = document.querySelector(`input[value = "AC"]`);
 const nega = document.querySelector(`input[value = "-/+"]`);
-const backspace = document.querySelector(`input[value = "⌂"]`);
+const backspace = document.querySelector(`input[value = "del"]`);
 let numbersarr = ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""], counter = 0, checker = false,
     operatorsarr = ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""], 
     fnumbers = [],
